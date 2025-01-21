@@ -1,9 +1,9 @@
 {
     "name": "LyricsIsland",
-    "description": "在主界面上显示来自网易云音乐的歌词。",
+    "description": "在主界面上显示来自音乐软件的歌词。",
     "version": "1.0.0",
     "plugin_ver": 1,
-    "author": "LaoShui, jiangyin14",
+    "author": "LaoShui,jiangyin14",
     "settings": false,
 
     "url": "https://github.com/jiangyin14/LyricsIslandCW",

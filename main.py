@@ -11,7 +11,7 @@ from qfluentwidgets import isDarkTheme
 from .ClassWidgets.base import PluginBase
 
 # 常量定义
-WIDGET_CODE = 'widget_test.ui'
+WIDGET_CODE = 'lyricsisland.ui'
 WIDGET_NAME = 'LyricsIsland'
 WIDGET_WIDTH = 300
 
